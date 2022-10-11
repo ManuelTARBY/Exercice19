@@ -22,7 +22,7 @@ namespace Exercice19
                     Console.WriteLine("Entrez une valeur numérique");
                 }
             } while (saisieCorrecte == false);
-            float taux = 0;
+            float taux = 0
             if (montant > 40)
             {
                 taux = 10f;
